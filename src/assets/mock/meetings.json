@@ -1,0 +1,38 @@
+[
+	{
+		"id": 233452342323,
+		"date": "2019-12-31",
+		"title": "my first meeting",
+		"organizer": {
+			"id": 563231645674,
+			"name": "me and myself"
+		},
+		"attendees": [
+			{
+				"id": 678743523,
+				"name": "you and yourself",
+				"accept": "yes"
+			},
+			{
+				"id": 54326455,
+				"name": "another one",
+				"accept": "maybe"
+			},
+			{
+				"id": 57353454,
+				"name": "and him too",
+				"accept": "no"
+			}
+		]
+	},
+	{
+		"id": 673424766564,
+		"date": "2019-10-10",
+		"title": "another meeting",
+		"organizer": {
+			"id": 678734256,
+			"name": "it's me again"
+		},
+		"attendees": []
+	}
+]

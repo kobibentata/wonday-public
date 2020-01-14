@@ -1,0 +1,12 @@
+{
+	"general": {
+		"welcome": "Welcome"
+	},
+	"sidebar": {
+		"dashboard": "Dashboard",
+		"mailing-lists": "Mailing Lists",
+		"events": "Events",
+		"branches": "Branches",
+		"settings": "Settings"
+	}
+}

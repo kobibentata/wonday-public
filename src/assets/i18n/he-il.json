@@ -1,0 +1,12 @@
+{
+	"general": {
+		"welcome": "ברוכים הבאים"
+	},
+	"sidebar": {
+		"dashboard": "לוח הבקרה",
+		"mailing-lists": "רשימות תפוצה",
+		"events": "אירועים",
+		"branches": "סניפים",
+		"settings": "הגדרות"
+	}
+}
